@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <web-view 
+    bindload="handleLoad"
+    binderror="handleError"
+    src="https://www.baidu.com/"/>
+</view>
