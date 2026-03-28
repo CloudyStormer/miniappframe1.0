@@ -1,5 +1,6 @@
 <!--index.wxml-->
 <view class="container">
+  建设中。。。
   <web-view 
     bindload="handleLoad"
     binderror="handleError"
